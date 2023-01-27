@@ -1,16 +1,14 @@
-# contact_list_app
+Flutter contact book app in which one can add contact info with name, number and
+email. One can edit and delete any contact info. Calling and messaging with the number easily. Sign-up and login with
+email and password.
 
-A new Flutter project.
+Developed with the help of different features of Dart and SQFlite is used for data storage.
 
-## Getting Started
+[Flutter_contact_book_assignment.pdf](https://github.com/nazmulmbstucse11/Contact-Book-with-Flutter/files/10515202/Flutter_contact_book_assignment.pdf)
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/114830903/215002775-6d9e0208-c7ea-44c5-b43b-5e128c5109b7.mp4
 
-A few resources to get you started if this is your first Flutter project:
+https://user-images.githubusercontent.com/114830903/215002909-52a3db77-7461-46e8-a2f0-70649262a72d.mp4
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
